@@ -23,10 +23,6 @@ function App() {
             <footer>
                 <small >Sitio diseñado por <a href="https://www.linkedin.com/in/edwin-wilche-45b071177/" target="_blank" rel="nooper noreferrer" >@edwinwilche</a></small>
             </footer>
-
-
-
-
         </div>
     );
 }
