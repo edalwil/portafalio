@@ -5,7 +5,7 @@ import "../App.css";
 import "../styles/AcercaStyles.css"
 
 //cv y images
-import pdf from "../assets/CV_EDWIN_WILCHE.pdf"
+import pdf from "../assets/HojadevidaEdwinWilche.pdf"
 import profilePicture from "../assets/perfil-2.png"
 
 
