@@ -5,7 +5,7 @@ import "../App.css";
 import "../styles/AcercaStyles.css";
 
 //cv y images
-import pdf from "../assets/hojadevidaedwinwilche.pdf";
+import pdf from "../assets/HojadevidaEdwinWilche.pdf";
 import profilePicture from "../assets/perfil-2.png";
 
 const AcercaComponst = () => {
@@ -16,17 +16,15 @@ const AcercaComponst = () => {
           <h1>Edwin Wilche</h1>
           <h5>Programador Web Full-Stack</h5>
         </aside>
+
         <p>
-          {" "}
-          Soy Tecnólogo en automatización industrial con conocimiento en
-          programación de PLC, con experiencia más de 4 años en mundo
-          industrial.
-        </p>
-        <p>
-          Actualmente me encuentro estudiando Programación Web Full-Stack en
-          Academlo, Con conocimiento en JAVASCRIPTS, HTML, CSS, REACTS, NODEJS,
-          con toda la aptitud de aprender todo sobre este hermoso mundo de la
-          programación web.
+          Soy un/a desarrollador full-stack con experiencia en JavaScript,
+          React, Node.js, HTML, CSS y Python. Me apasiona crear aplicaciones web
+          innovadoras y funcionales, y tengo habilidades en diseño y desarrollo
+          de bases de datos. Siempre estoy actualizado/a en las últimas
+          tendencias de seguridad informática. Me motiva el aprendizaje continuo
+          y la mejora de mis habilidades. Soy un/a excelente colaborador/a y
+          comunicador/a de equipo.
         </p>
         <div className="title-about-center title-desktop-left">
           <a className="btn" href={pdf} target="_blank" rel="nooper noreferrer">
